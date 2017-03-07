@@ -1,0 +1,4 @@
+$ajax{
+	dataType: jason,
+	
+}
